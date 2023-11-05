@@ -1,8 +1,35 @@
-# React + Vite
+# foodera template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+this project was made to practice components, css and responsive website templates with react and libraries
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- fully responsive on all screens
+- high practice of clean code using components
+- structured css code
+
+
+## Technologies Used
+
+- react 
+- fontawesome icons
+- react fontawesome icons
+- mui icons
+- bootstrap
+- bootstrap icons
+- react bootstrap
+
+## Demo
+
+* you can use it from here: http://foodera-template.surge.sh/
+
+## Contact
+
+- if you find any problem you can reach me through: hamozaar07@gmail.com
+
+
+---
+
+[Report a Bug](https://github.com/hamoz07/recipes-template/issues) | [Request a Feature](https://github.com/hamoz07/recipes-template/issues)
