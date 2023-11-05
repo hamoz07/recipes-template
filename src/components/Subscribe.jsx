@@ -16,7 +16,7 @@ const Subscribe = () => {
         />
         <div className="form">
           <div className="col-md-8">
-            <input type="text" ref={subref} placeholder="Enter Email here" />
+            <input type="email" ref={subref} placeholder="Enter Email here" />
           </div>
           <button
             onClick={() => (subref.current.value = "")}
