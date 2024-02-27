@@ -591,7 +591,7 @@ span[aria-hidden="true"]+span {
   position: relative;
   letter-spacing: .1px;
   margin-left: 5px;
-
+  width: 80%;
 }
   
 .QAitem h3 span{
@@ -606,6 +606,7 @@ span[aria-hidden="true"]+span {
   overflow: hidden;
   letter-spacing: 1px;
   font-weight: 500;
+  width: 80%;
 }
 
 
