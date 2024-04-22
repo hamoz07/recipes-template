@@ -2,7 +2,7 @@
 
 ## Overview
 
-this project was made to practice components, css and responsive website templates with react and libraries
+this project was made to practice components in React, css and responsive website templates with react and libraries
 
 ## Features
 
